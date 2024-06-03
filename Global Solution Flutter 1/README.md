@@ -44,10 +44,7 @@ Como Executar
 Para executar este projeto localmente, siga as etapas abaixo:
 
 Clone o Repositório:
-git clone https://github.com/Pepwt/O20.git
-
-Navegue até o Diretório do Projeto:
-cd 020
+git clone https://github.com/kenzotanaka17/Global-Solution-Flutter-1.git
 
 Instale as Dependências:
 flutter pub get
